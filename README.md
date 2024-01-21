@@ -1,4 +1,4 @@
-<h2 align="left">Hello World! 👋 | Onella from Sri Lanka 🇱🇰 | Code Explorer & Future Tech Weaver 🚀 #CodingFromTheIsland"</h2>
+<h2 align="left">Hello World! 👋 | Onella from Sri Lanka 🇱🇰 | Code Explorer & Future Tech Weaver 🚀 #CodingFromTheIsland</h2>
 
 ###
 
